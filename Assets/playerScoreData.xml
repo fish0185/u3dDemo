@@ -1,0 +1,12 @@
+<scoreRecordList>
+	<scoreRecord>
+		<player>matt</player>
+		<score>2200</score>
+	</scoreRecord>
+	
+	<scoreRecord>
+		<player>jane</player>
+		<score>500</score>
+	</scoreRecord>
+	
+</scoreRecordList>
